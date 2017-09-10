@@ -13,3 +13,19 @@ c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppUI\obj\Deb
 c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppUI\obj\Debug\netcoreapp1.1\VideoAppUI.AssemblyInfo.cs
 c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppUI\obj\Debug\netcoreapp1.1\VideoAppUI.dll
 c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppUI\obj\Debug\netcoreapp1.1\VideoAppUI.pdb
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppUI\bin\Debug\netcoreapp1.1\VideoAppUI.deps.json
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppUI\bin\Debug\netcoreapp1.1\VideoAppUI.runtimeconfig.json
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppUI\bin\Debug\netcoreapp1.1\VideoAppUI.runtimeconfig.dev.json
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppUI\bin\Debug\netcoreapp1.1\VideoAppUI.dll
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppUI\bin\Debug\netcoreapp1.1\VideoAppUI.pdb
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppUI\bin\Debug\netcoreapp1.1\VideoAppBLL.dll
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppUI\bin\Debug\netcoreapp1.1\VideoAppDAL.dll
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppUI\bin\Debug\netcoreapp1.1\VideoAppEntity.dll
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppUI\bin\Debug\netcoreapp1.1\VideoAppBLL.pdb
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppUI\bin\Debug\netcoreapp1.1\VideoAppEntity.pdb
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppUI\bin\Debug\netcoreapp1.1\VideoAppDAL.pdb
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppUI\obj\Debug\netcoreapp1.1\VideoAppUI.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppUI\obj\Debug\netcoreapp1.1\VideoAppUI.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppUI\obj\Debug\netcoreapp1.1\VideoAppUI.AssemblyInfo.cs
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppUI\obj\Debug\netcoreapp1.1\VideoAppUI.dll
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppUI\obj\Debug\netcoreapp1.1\VideoAppUI.pdb

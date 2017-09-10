@@ -5,3 +5,11 @@ c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppEntity\obj
 c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppEntity\obj\Debug\netcoreapp1.1\VideoAppEntity.AssemblyInfo.cs
 c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppEntity\obj\Debug\netcoreapp1.1\VideoAppEntity.dll
 c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppEntity\obj\Debug\netcoreapp1.1\VideoAppEntity.pdb
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppEntity\bin\Debug\netcoreapp1.1\VideoAppEntity.deps.json
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppEntity\bin\Debug\netcoreapp1.1\VideoAppEntity.dll
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppEntity\bin\Debug\netcoreapp1.1\VideoAppEntity.pdb
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppEntity\obj\Debug\netcoreapp1.1\VideoAppEntity.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppEntity\obj\Debug\netcoreapp1.1\VideoAppEntity.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppEntity\obj\Debug\netcoreapp1.1\VideoAppEntity.AssemblyInfo.cs
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppEntity\obj\Debug\netcoreapp1.1\VideoAppEntity.dll
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppEntity\obj\Debug\netcoreapp1.1\VideoAppEntity.pdb

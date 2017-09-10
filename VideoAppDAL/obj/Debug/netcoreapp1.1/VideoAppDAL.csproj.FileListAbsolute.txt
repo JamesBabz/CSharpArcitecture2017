@@ -7,3 +7,13 @@ c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppDAL\obj\De
 c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppDAL\obj\Debug\netcoreapp1.1\VideoAppDAL.AssemblyInfo.cs
 c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppDAL\obj\Debug\netcoreapp1.1\VideoAppDAL.dll
 c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppDAL\obj\Debug\netcoreapp1.1\VideoAppDAL.pdb
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppDAL\bin\Debug\netcoreapp1.1\VideoAppDAL.deps.json
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppDAL\bin\Debug\netcoreapp1.1\VideoAppDAL.dll
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppDAL\bin\Debug\netcoreapp1.1\VideoAppDAL.pdb
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppDAL\bin\Debug\netcoreapp1.1\VideoAppEntity.dll
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppDAL\bin\Debug\netcoreapp1.1\VideoAppEntity.pdb
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppDAL\obj\Debug\netcoreapp1.1\VideoAppDAL.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppDAL\obj\Debug\netcoreapp1.1\VideoAppDAL.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppDAL\obj\Debug\netcoreapp1.1\VideoAppDAL.AssemblyInfo.cs
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppDAL\obj\Debug\netcoreapp1.1\VideoAppDAL.dll
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppDAL\obj\Debug\netcoreapp1.1\VideoAppDAL.pdb

@@ -9,3 +9,15 @@ c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppBLL\obj\De
 c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppBLL\obj\Debug\netcoreapp1.1\VideoAppBLL.AssemblyInfo.cs
 c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppBLL\obj\Debug\netcoreapp1.1\VideoAppBLL.dll
 c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppBLL\obj\Debug\netcoreapp1.1\VideoAppBLL.pdb
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppBLL\bin\Debug\netcoreapp1.1\VideoAppBLL.deps.json
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppBLL\bin\Debug\netcoreapp1.1\VideoAppBLL.dll
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppBLL\bin\Debug\netcoreapp1.1\VideoAppBLL.pdb
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppBLL\bin\Debug\netcoreapp1.1\VideoAppDAL.dll
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppBLL\bin\Debug\netcoreapp1.1\VideoAppEntity.dll
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppBLL\bin\Debug\netcoreapp1.1\VideoAppDAL.pdb
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppBLL\bin\Debug\netcoreapp1.1\VideoAppEntity.pdb
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppBLL\obj\Debug\netcoreapp1.1\VideoAppBLL.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppBLL\obj\Debug\netcoreapp1.1\VideoAppBLL.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppBLL\obj\Debug\netcoreapp1.1\VideoAppBLL.AssemblyInfo.cs
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppBLL\obj\Debug\netcoreapp1.1\VideoAppBLL.dll
+C:\Users\James\Documents\GitHub\CSharpArcitecture2017\VideoAppBLL\obj\Debug\netcoreapp1.1\VideoAppBLL.pdb

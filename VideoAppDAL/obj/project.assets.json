@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "targets": {
     ".NETCoreApp,Version=v1.1": {
       "Libuv/1.9.1": {
@@ -2466,6 +2466,12 @@
         "framework": ".NETCoreApp,Version=v1.1",
         "dependencies": {
           "Microsoft.NETCore.App": "1.1.2"
+        },
+        "compile": {
+          "bin/placeholder/VideoAppEntity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VideoAppEntity.dll": {}
         }
       }
     }
@@ -7410,20 +7416,32 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\James\\Documents\\Visual Studio 2017\\Projects\\VideoApp\\VideoAppDAL\\VideoAppDAL.csproj",
+      "projectUniqueName": "C:\\Users\\James\\Documents\\GitHub\\CSharpArcitecture2017\\VideoAppDAL\\VideoAppDAL.csproj",
       "projectName": "VideoAppDAL",
-      "projectPath": "C:\\Users\\James\\Documents\\Visual Studio 2017\\Projects\\VideoApp\\VideoAppDAL\\VideoAppDAL.csproj",
-      "outputPath": "C:\\Users\\James\\Documents\\Visual Studio 2017\\Projects\\VideoApp\\VideoAppDAL\\obj\\",
+      "projectPath": "C:\\Users\\James\\Documents\\GitHub\\CSharpArcitecture2017\\VideoAppDAL\\VideoAppDAL.csproj",
+      "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\James\\Documents\\GitHub\\CSharpArcitecture2017\\VideoAppDAL\\obj\\",
       "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\James\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\James\\Documents\\Visual Studio 2017\\Projects\\VideoApp\\VideoAppEntity\\VideoAppEntity.csproj": {
-              "projectPath": "C:\\Users\\James\\Documents\\Visual Studio 2017\\Projects\\VideoApp\\VideoAppEntity\\VideoAppEntity.csproj"
+            "C:\\Users\\James\\Documents\\GitHub\\CSharpArcitecture2017\\VideoAppEntity\\VideoAppEntity.csproj": {
+              "projectPath": "C:\\Users\\James\\Documents\\GitHub\\CSharpArcitecture2017\\VideoAppEntity\\VideoAppEntity.csproj"
             }
           }
         }
