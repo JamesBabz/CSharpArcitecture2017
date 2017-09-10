@@ -1,0 +1,9 @@
+c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppDAL\bin\Debug\netcoreapp1.1\VideoAppDAL.deps.json
+c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppDAL\bin\Debug\netcoreapp1.1\VideoAppDAL.dll
+c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppDAL\bin\Debug\netcoreapp1.1\VideoAppDAL.pdb
+c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppDAL\bin\Debug\netcoreapp1.1\VideoAppEntity.dll
+c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppDAL\bin\Debug\netcoreapp1.1\VideoAppEntity.pdb
+c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppDAL\obj\Debug\netcoreapp1.1\VideoAppDAL.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppDAL\obj\Debug\netcoreapp1.1\VideoAppDAL.AssemblyInfo.cs
+c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppDAL\obj\Debug\netcoreapp1.1\VideoAppDAL.dll
+c:\users\james\documents\visual studio 2017\Projects\VideoApp\VideoAppDAL\obj\Debug\netcoreapp1.1\VideoAppDAL.pdb
